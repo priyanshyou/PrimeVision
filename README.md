@@ -1,13 +1,3 @@
-# Amazon-HackOn
-
-## Team Name: **random_gigabytes**
-
-## Team Members:
-1. Bhupesh Dewangan - [bhupesh98](https://github.com/bhupesh98)
-2. Debjyoti Ray - [DebjyotiRay](https://github.com/DebjyotiRay)
-3. Harshal Gainer - [Harshal5167](https://github.com/Harshal5167)
-4. Prakhar Shukla - [tonyStark-Jr](https://github.com/tonyStark-Jr)
-
 ## [Video presentation](https://youtu.be/21yOeJ--X4c)
  
 ## Table of Contents
